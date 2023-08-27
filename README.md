@@ -13,12 +13,8 @@
 
 </div>
 
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=purple&size=25&center=true&vCenter=true&width=600&height=100&lines=I+AM+A+PASSIONATE+FULL+STACK+DEVELOPER;AND;SOFTWARE+DEVELOPMENT TECHNICIAN;ALWAYS%20LEARNING%20NEW%20THINGS"></a>
-</p>
-
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I+AM+A+PASSIONATE+FULL+STACK+DEVELOPER+%F0%9F%91%8B;AND;SOFTWARE+DEVELOPMENT TECHNICIAN;ALWAYS%20LEARNING%20NEW%20THINGS" alt="Headline" />
+     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I+AM+A+PASSIONATE+FULL+STACK+DEVELOPER+%F0%9F%91%8B;AND;SOFTWARE+DEVELOPMENT TECHNICIAN;ALWAYS+LEARNING+NEW+THINGS" alt="Headline" />
     </div>
 
 ## About Me

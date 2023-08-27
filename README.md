@@ -1,9 +1,5 @@
 
 <img src="https://media.licdn.com/dms/image/D4D16AQFHY3aISo8zDA/profile-displaybackgroundimage-shrink_350_1400/0/1681421029695?e=1698883200&v=beta&t=RUFHI0R6QUqKGvpPLgTCmueE5WhHwxRrqPQ3CeQ77mc" alt="Image Portada">
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h1 align="center">Hi, I'm Marcos Ortega<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <div id="badges">
 <a href="https://www.linkedin.com/in/marcos-ortega73/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +8,9 @@
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
 </a>
 </div>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h1 align="center">Hi, I'm Marcos Ortega<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%873FDB&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+A+PASSIONATE+FULL+STACK+DEVELOPER%F0%9F%91%8B;AND;SOFTWARE+DEVELOPMENT+TECHNICIAN;ALWAYS+LEARNING+NEW+THINGS" alt="Headline" />
@@ -20,12 +19,11 @@
 
 
 <h2> About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
 Passionate Full Stack Developer with over 2 years of industry experience. 
 Self-taught since 2017 and a graduate of the Superior Technician in Software Development program.
 Dedicated to continuous growth and enthusiastic about making meaningful contributions.
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **NEXT JS AND TYPESCRIPT**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.

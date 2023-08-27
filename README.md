@@ -2,14 +2,15 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQFHY3aISo8zDA/profile-displaybackgroundimage-shrink_350_1400/0/1681421029695?e=1698883200&v=beta&t=RUFHI0R6QUqKGvpPLgTCmueE5WhHwxRrqPQ3CeQ77mc" alt="Image Portada">
   
 <h1 align="center">Hi, I'm Marcos Ortega<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+
 <div id="badges">
 <a href="https://www.linkedin.com/in/marcos-ortega73/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
 <a href="typsoftsolutions@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
 </a>
+</div>
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?  color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I+there+I'm+Marcos+%F0%9F%91%8B;a+Passionate+full+stack+developer;and;Software+Development+technician;Always+Learning+New+Things;" alt="Headline" />
@@ -63,5 +64,4 @@ Passionate full stack developer with 2+ years of experience. Self-taught since 2
   </a>
 </div>
 
-<div>
 

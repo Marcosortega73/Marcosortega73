@@ -1,7 +1,15 @@
 
 <img src="https://media.licdn.com/dms/image/D4D16AQFHY3aISo8zDA/profile-displaybackgroundimage-shrink_350_1400/0/1681421029695?e=1698883200&v=beta&t=RUFHI0R6QUqKGvpPLgTCmueE5WhHwxRrqPQ3CeQ77mc" alt="Image Portada">
+  
+<h1 align="center">Hi, I'm Marcos Ortega<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-# ¡Bienvenidos a mi perfil! 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'M+A+PASSIONATE+FULL+STACK+DEVELOPER;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+
+
+<h3 font-size="20" align="center">I am a passionate full stack developer and a software development technician from Argentina</h3>
 
 ## Acerca de mí
 

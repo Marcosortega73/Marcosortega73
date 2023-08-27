@@ -66,7 +66,7 @@ Dedicated to continuous growth and enthusiastic about making meaningful contribu
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
-  <h2>Tech Stack</h2>
+  <h2>Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"></h2>
   <a href="https://github.com/Marcosortega73">
     <img width=450 height=170 align="center" alt="Marcosortega73" src="https://github-readme-stats.vercel.app/api?username=Marcosortega73&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>

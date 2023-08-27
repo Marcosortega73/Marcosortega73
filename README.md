@@ -20,9 +20,7 @@
 
 <h2> About Me </h2>
 <h4 font-size="20" align="center">
-Passionate Full Stack Developer with over 2 years of industry experience. 
-Self-taught since 2017 and a graduate of the Superior Technician in Software Development program.
-Dedicated to continuous growth and enthusiastic about making meaningful contributions.
+Passionate male Full Stack Developer with over 2 years of industry experience. Self-taught since 2017 and a graduate of the Superior Technician in Software Development program. I'm 32 years old and based in Argentina. Dedicated to continuous growth and enthusiastic about making meaningful contributions.
 </h3>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**<img align="right" style="width:16rem; height:auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>

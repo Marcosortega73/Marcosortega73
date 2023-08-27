@@ -1,3 +1,6 @@
+
+<img src="https://media.licdn.com/dms/image/D4D16AQFHY3aISo8zDA/profile-displaybackgroundimage-shrink_350_1400/0/1681421029695?e=1698883200&v=beta&t=RUFHI0R6QUqKGvpPLgTCmueE5WhHwxRrqPQ3CeQ77mc" alt="Image Portada">
+
 # ¡Bienvenidos a mi perfil! 👋
 
 ## Acerca de mí

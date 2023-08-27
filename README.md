@@ -18,8 +18,10 @@
     </div>
   
 
-<div align=left>
-## About Me
+
+<h2> About Me </h2>
+<img width="55%" align="right" alt="Github" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
+
 Passionate Full Stack Developer with over 2 years of industry experience. Self-taught since 2017 and a graduate of the Superior Technician in Software Development program. Dedicated to continuous growth and enthusiastic about making meaningful contributions.
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
@@ -28,14 +30,12 @@ Passionate Full Stack Developer with over 2 years of industry experience. Self-t
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
  </div>
-<div align=rigth>
-  <img width="55%" align="right" alt="Github" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
- </div>
+
   
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+<h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -64,7 +64,7 @@ Passionate Full Stack Developer with over 2 years of industry experience. Self-t
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<div>
+<div align=center>
   ## 📊 &nbsp;My activities
   <a href="https://github.com/Marcosortega73">
     <img width=450 height=170 align="center" alt="Marcosortega73" src="https://github-readme-stats.vercel.app/api?username=Marcosortega73&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />

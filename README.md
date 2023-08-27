@@ -31,7 +31,7 @@ Passionate full stack developer with 2+ years of experience. Self-taught since 2
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![VUE](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
+![VUE](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuejs)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![QUASAR](https://img.shields.io/badge/-QUASAR-05122A?style=flat&logo=quasar&logoColor=4479A1)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=4479A1)&nbsp;
@@ -40,9 +40,28 @@ Passionate full stack developer with 2+ years of experience. Self-taught since 2
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![TAILDWIND](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind&logoColor=563D7C)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=sql&logoColor=4479A1)&nbsp;
+![LINUX](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=4479A1)&nbsp;
+![NGNIX](https://img.shields.io/badge/-Ngnix-05122A?style=flat&logo=nginx&logoColor=4479A1)&nbsp;
+![APACHE](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache&logoColor=4479A1)&nbsp;
+![JIRA](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=4479A1)&nbsp;
+
+
+<div>
+
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/Pepyn0">
+    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Pepyn0">
+    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+<div>
 

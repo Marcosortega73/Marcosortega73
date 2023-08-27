@@ -13,12 +13,12 @@
 </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+A+PASSIONATE+FULL+STACK+DEVELOPER%F0%9F%91%8B;AND;SOFTWARE+DEVELOPMENT+TECHNICIAN;ALWAYS+LEARNING+NEW+THINGS" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%8A2BE2&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+A+PASSIONATE+FULL+STACK+DEVELOPER%F0%9F%91%8B;AND;SOFTWARE+DEVELOPMENT+TECHNICIAN;ALWAYS+LEARNING+NEW+THINGS" alt="Headline" />
     </div>
   
 
 ## About Me
-Passionate full stack developer with 2+ years of experience. Self-taught since 2017. Committed to growth and eager to contribute!
+Passionate Full Stack Developer with over 2 years of industry experience. Self-taught since 2017 and a graduate of the Superior Technician in Software Development program. Dedicated to continuous growth and enthusiastic about making meaningful contributions.
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **NEXT JS AND TYPESCRIPT**

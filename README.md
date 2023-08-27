@@ -14,8 +14,12 @@
 </div>
 
   <div align=center>
-     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I+AM+A+PASSIONATE+FULL+STACK+DEVELOPER+%F0%9F%91%8B" alt="Headline" />
+     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I+AM+A+PASSIONATE+FULL+STACK+DEVELOPER+%F0%9F%91%8B;AND;SOFTWARE+DEVELOPMENT TECHNICIAN;ALWAYS+LEARNING+NEW+THINGS" alt="Headline" />
     </div>
+   <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
+  
 
 ## About Me
 Passionate full stack developer with 2+ years of experience. Self-taught since 2017. Committed to growth and eager to contribute!

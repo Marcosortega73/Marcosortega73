@@ -17,7 +17,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%873FDB&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+A+PASSIONATE+FULL+STACK+DEVELOPER%F0%9F%91%8B;AND;SOFTWARE+DEVELOPMENT+TECHNICIAN;ALWAYS+LEARNING+NEW+THINGS" alt="Headline" />
     </div>
   
-<div>
+
 <div align=left>
 ## About Me
 Passionate Full Stack Developer with over 2 years of industry experience. Self-taught since 2017 and a graduate of the Superior Technician in Software Development program. Dedicated to continuous growth and enthusiastic about making meaningful contributions.
@@ -29,10 +29,9 @@ Passionate Full Stack Developer with over 2 years of industry experience. Self-t
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
  </div>
 <div align=rigth>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+  <img width="55%" align="right" alt="Github" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
  </div>
   
-</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -62,6 +61,8 @@ Passionate Full Stack Developer with over 2 years of industry experience. Self-t
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
   ## 📊 &nbsp;My activities

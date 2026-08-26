@@ -1,5 +1,14 @@
 <div align="center">
 
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=873FDB&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;Tech+Lead+%7C+Product+Engineering;Node.js+%C2%B7+React+%C2%B7+AWS+%C2%B7+TypeScript;Building+Scalable+Products"
+  alt="Typing SVG"
+/>
+
+</div>
+
 # Marcos Ortega
 
 ### Senior Full Stack Developer · Tech Lead · Product Engineering
@@ -145,17 +154,29 @@ Integration of AI capabilities into real business workflows and product experien
 `Node.js` `React` `LLMs` `APIs`
 
 ---
-
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180"
-src="https://github-stats-extended.vercel.app/api?username=Marcosortega73&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"
+<img
+  width="49%"
+  alt="Marcos GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=Marcosortega73&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true&count_private=true"
 />
 
-<img height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marcosortega73&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+<img
+  width="41%"
+  alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosortega73&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true&langs_count=8"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Marcosortega73&theme=midnight-purple&background=0D1117&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>

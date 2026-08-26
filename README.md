@@ -1,76 +1,65 @@
-
-<img src="https://media.licdn.com/dms/image/D4D16AQFHY3aISo8zDA/profile-displaybackgroundimage-shrink_350_1400/0/1681421029695?e=1698883200&v=beta&t=RUFHI0R6QUqKGvpPLgTCmueE5WhHwxRrqPQ3CeQ77mc" alt="Image Portada">
-<div id="badges">
-<a href="https://www.linkedin.com/in/marcos-ortega73/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=873FDB&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;Tech+Lead+%40+Urbano+Express;Building+AI-Powered+Products;Node.js+%C2%B7+React+%C2%B7+AWS+%C2%B7+TypeScript" alt="Typing SVG" />
+<br/>
+<a href="https://www.linkedin.com/in/marcosortega73">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="typsoftsolutions@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+<a href="mailto:marcosortega73@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Marcosortega73">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h1 align="center">Hi, I'm Marcos Ortega<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%873FDB&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+A+PASSIONATE+FULL+STACK+DEVELOPER%F0%9F%91%8B;AND;SOFTWARE+DEVELOPMENT+TECHNICIAN;ALWAYS+LEARNING+NEW+THINGS" alt="Headline" />
-    </div>
-  
-
-
-<h2> About Me </h2>
-<h4 font-size="20" align="center">
-Passionate male Full Stack Developer with over 2 years of industry experience. Self-taught since 2017 and a graduate of the Superior Technician in Software Development program. I'm 32 years old and based in Argentina. Dedicated to continuous growth and enthusiastic about making meaningful contributions.
-</h3>
-
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**<img align="right" style="width:16rem; height:auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **NEXT JS AND TYPESCRIPT**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
- </div>
-
-  
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
+👋 Sobre mí
+Full Stack Developer con +5 años de experiencia diseñando y evolucionando sistemas core de alta concurrencia, plataformas eCommerce y soluciones internas de operación. Actualmente me desempeño como Tech Lead / Senior Full Stack Developer en Urbano Express Argentina, liderando una célula técnica dentro de un ecosistema de microservicios en AWS.
+Trabajo end-to-end: desde arquitectura y decisiones técnicas hasta la implementación de integraciones de pago, APIs, IA y apps mobile. Impulso proyectos propios a través de Ityosoft, para clientes como Arcor, Urbano Express y Direct Connection.
+🔭 Actualmente trabajando en integraciones con IA y plataformas de reservas con pagos en tiempo real
+🌱 Profundizando en arquitectura de microservicios y AWS (Lambda, DynamoDB)
+🤝 Abierto a colaborar en proyectos de Product Engineering, eCommerce y sistemas escalables
+💬 Preguntame sobre Node.js/NestJS, React/Next.js, AWS o arquitectura de sistemas
+🎓 Técnico Superior en Desarrollo de Software — Instituto Superior Santa Rosa de Calamuchita
+<br/>
+🛠️ Tech Stack
+<div align="center">
+Lenguajes & Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+Cloud, Datos & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<div>
-  <h2>Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"></h2>
-  <a href="https://github.com/Marcosortega73">
-    <img width=450 height=170 align="center" alt="Marcosortega73" src="https://github-readme-stats.vercel.app/api?username=Marcosortega73&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Marcosortega73">
-    <img align="center" alt="Marcosortega73" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosortega73&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+Pagos, CMS & Herramientas
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </div>
-
-
+<br/>
+📊 GitHub Stats
+<div align="center">
+  <img width="49%" alt="Marcos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Marcosortega73&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true&count_private=true" />
+  <img width="35%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosortega73&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true&count_private=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcosortega73&theme=midnight-purple&background=0D1117&border=0D1117&hide_border=true" alt="GitHub streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Marcosortega73&style=for-the-badge&color=873FDB&label=Perfil+visto" alt="Profile views" />
+</div>

@@ -155,23 +155,6 @@ Integration of AI capabilities into real business workflows and product experien
 
 ---
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-stats-extended.vercel.app/api?username=Marcosortega73&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"
-  alt="Marcos GitHub Stats"
-/>
-
-<img
-  width="41%"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marcosortega73&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"
-  alt="Top Languages"
-/>
-
-</div>
-
 <div align="center">
 
 <img

@@ -1,65 +1,189 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=873FDB&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;Tech+Lead+%40+Urbano+Express;Building+AI-Powered+Products;Node.js+%C2%B7+React+%C2%B7+AWS+%C2%B7+TypeScript" alt="Typing SVG" />
-<br/>
-<a href="https://www.linkedin.com/in/marcosortega73">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:marcosortega73@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Marcosortega73">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+
+# Marcos Ortega
+
+### Senior Full Stack Developer · Tech Lead · Product Engineering
+
+Building scalable products, backend architectures and business-critical platforms.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Ortega-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosortega73)
+[![Email](https://img.shields.io/badge/Email-marcosortega73%40hotmail.com-873FDB?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:marcosortega73@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Marcosortega73-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Marcosortega73)
+
 </div>
-<br/>
-👋 Sobre mí
-Full Stack Developer con +5 años de experiencia diseñando y evolucionando sistemas core de alta concurrencia, plataformas eCommerce y soluciones internas de operación. Actualmente me desempeño como Tech Lead / Senior Full Stack Developer en Urbano Express Argentina, liderando una célula técnica dentro de un ecosistema de microservicios en AWS.
-Trabajo end-to-end: desde arquitectura y decisiones técnicas hasta la implementación de integraciones de pago, APIs, IA y apps mobile. Impulso proyectos propios a través de Ityosoft, para clientes como Arcor, Urbano Express y Direct Connection.
-🔭 Actualmente trabajando en integraciones con IA y plataformas de reservas con pagos en tiempo real
-🌱 Profundizando en arquitectura de microservicios y AWS (Lambda, DynamoDB)
-🤝 Abierto a colaborar en proyectos de Product Engineering, eCommerce y sistemas escalables
-💬 Preguntame sobre Node.js/NestJS, React/Next.js, AWS o arquitectura de sistemas
-🎓 Técnico Superior en Desarrollo de Software — Instituto Superior Santa Rosa de Calamuchita
-<br/>
-🛠️ Tech Stack
+
+---
+
+## 👋 About me
+
+I'm a **Senior Full Stack Developer and Tech Lead** with 5+ years of experience building, maintaining and evolving production systems used in real-world business operations.
+
+My work goes beyond implementing features: I participate in **architecture decisions, backend design, frontend development, integrations, performance optimization and production troubleshooting**.
+
+I currently work mainly with **Node.js, NestJS, React, TypeScript, PHP/Laravel and AWS**, while also leading technical initiatives across distributed systems and legacy platforms.
+
+Some areas I frequently work on:
+
+- ⚙️ Backend architecture and REST APIs
+- 🧩 Microservices and distributed systems
+- ☁️ Cloud infrastructure with AWS
+- 💳 Payment and reservation integrations
+- 🤖 AI-powered product features
+- 📦 Logistics and operational platforms
+- ⚡ SQL and backend performance optimization
+- 🧠 Technical leadership and solution design
+- 🔧 Legacy modernization and system evolution
+- 🚀 Product development from idea to production
+
+---
+
+## 🚀 What I'm working on
+
+```text
+Architecture        → Microservices · APIs · Distributed Systems
+Frontend            → React · Next.js · TypeScript
+Backend             → Node.js · NestJS · PHP · Laravel
+Cloud               → AWS · Docker · Linux · Nginx
+Data                → PostgreSQL · MySQL · SQL Server · Informix
+Product             → Payments · Logistics · Reservations · AI
+```
+
+Currently focused on building and evolving **business-critical applications**, improving backend performance and incorporating **AI into real product workflows**.
+
+---
+
+## 🧰 Core Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Informix](https://img.shields.io/badge/Informix-00539F?style=flat-square)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 🧠 Engineering Focus
+
+I enjoy working on problems where software has a direct impact on operations and business processes.
+
+```text
+Scalable APIs             ███████████████████░
+Backend Architecture      ███████████████████░
+React / Frontend          ██████████████████░░
+System Integration        ███████████████████░
+SQL & Performance         ██████████████████░░
+Cloud / AWS               ████████████████░░░░
+Technical Leadership      ██████████████████░░
+AI Product Integration    ███████████████░░░░░
+```
+
+---
+
+## 💼 Experience highlights
+
+- Led technical development for production-critical applications.
+- Designed and evolved APIs and backend services used across operational workflows.
+- Worked with large databases and performance-sensitive SQL workloads.
+- Implemented payment flows and third-party integrations.
+- Built and maintained React applications and internal operational tools.
+- Worked across modern architectures and legacy systems.
+- Led incident analysis and troubleshooting in production environments.
+- Participated in architecture decisions and technical solution design.
+- Developed products from initial requirements through production deployment.
+
+---
+
+## ⭐ Selected Work
+
+### 🚚 Logistics Platform
+Distributed operational platform handling logistics workflows, traceability, routing and production-critical processes.
+
+`Node.js` `NestJS` `React` `PostgreSQL` `AWS`
+
+### 🚗 Car Rental Platform
+Booking platform integrating multiple providers, real-time quotations, Stripe payments and reservation workflows.
+
+`React` `TypeScript` `PHP` `WordPress` `Stripe`
+
+### 🤖 AI Product Integrations
+Integration of AI capabilities into real business workflows and product experiences.
+
+`Node.js` `React` `LLMs` `APIs`
+
+---
+
+## 📊 GitHub
+
 <div align="center">
-Lenguajes & Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-Cloud, Datos & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-Pagos, CMS & Herramientas
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=Marcosortega73&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"
+/>
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marcosortega73&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+/>
+
 </div>
+
+> GitHub language statistics only represent public repository code and should not be interpreted as my complete professional technology experience.
+
+---
+
+## 🎯 What I'm interested in
+
+I'm particularly interested in projects involving:
+
+**Product Engineering · SaaS · Fintech · eCommerce · Logistics · AI · Cloud Platforms · High-scale Backend Systems**
+
+I enjoy environments where engineering decisions have direct impact on the product and where developers can participate in architecture, product decisions and technical strategy.
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+[LinkedIn](https://www.linkedin.com/in/marcosortega73) ·
+[GitHub](https://github.com/Marcosortega73) ·
+[Email](mailto:marcosortega73@hotmail.com)
+
 <br/>
-📊 GitHub Stats
-<div align="center">
-  <img width="49%" alt="Marcos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Marcosortega73&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true&count_private=true" />
-  <img width="35%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosortega73&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true&count_private=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcosortega73&theme=midnight-purple&background=0D1117&border=0D1117&hide_border=true" alt="GitHub streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marcosortega73&style=for-the-badge&color=873FDB&label=Perfil+visto" alt="Profile views" />
+
+![Profile views](https://komarev.com/ghpvc/?username=Marcosortega73&style=flat-square&color=873FDB&label=Profile+views)
+
 </div>
